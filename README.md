@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmed-Gamal-Mohammed
 - 👀 I’m interested in Web Development (specially backend using nodejs)
-- 🌱 I’m currently learning javaScript 
+- I have good knowlesge and did many practice in DSA
 - 📫 How to reach me
     -  Email : ahmed241gamal@gmail.com
 
